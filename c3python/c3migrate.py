@@ -1,5 +1,5 @@
 import os
-from turtle import up
+# from turtle import up
 from c3python import get_c3
 from c3python import AzureBlob
 import urllib.parse
